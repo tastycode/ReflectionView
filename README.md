@@ -3,7 +3,7 @@
 ![2017-10-19 23 09 58](https://user-images.githubusercontent.com/809953/31804946-b2dd63dc-b522-11e7-9314-41fba2cd93f8.gif)
 (ReflectionView running in ARKitExample)
 
-Have a complex rendering pipeline? Is the end-result of your pipeline a
+Have a complex rendering pipeline? Can the end-result of your pipeline be nested in a
 single UIView? Do you need that view to present itself as two duplicate
 views so the view will appear as a single image when viewed through a VR
 headset?
